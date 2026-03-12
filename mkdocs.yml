@@ -1,1 +1,8 @@
-site_name: My Docs
+# An example of the most basic config file we can use with `MKDocs`
+# Great place to start to see if this is working / what you need to fix
+# or customzie
+
+site_name: Mundus Player Wiki
+site_url: https://Adonimity.github.io/Mundus-Player-Wiki
+site_author: Aiden Webb
+site_description: A description of your site
